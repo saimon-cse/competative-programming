@@ -1,0 +1,1 @@
+{"name":"Local: uva-Z","url":"d:\\00 Coding\\Level 2\\01 Competative Programming\\uva-Z.cpp","tests":[{"id":1720121937799,"input":"2\n2\n11\n01\n4\n3\n110\n101\n111\n011\n0","output":"5\n22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\00 Coding\\Level 2\\01 Competative Programming\\uva-Z.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: uva_g","url":"d:\\00 Coding\\Level 2\\01 Competative Programming\\uva_g.cpp","tests":[{"id":1720537370171,"input":"3\n2\n100\n20\n4\n4\n3\n2\n1\n4\n1\n2\n3\n4","output":"80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\00 Coding\\Level 2\\01 Competative Programming\\uva_g.cpp","group":"local","local":true}
